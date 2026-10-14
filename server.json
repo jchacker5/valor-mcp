@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.jchacker5/valor-mcp",
+  "title": "Valor AI",
+  "description": "Free, read-only, no sign-in VA disability benefits help: VA claims Q&A, BDD prep checklist, combined rating math.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.tryvalor.ai",
+  "repository": {
+    "url": "https://github.com/jchacker5/valor-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.tryvalor.ai/mcp/public"
+    }
+  ]
+}

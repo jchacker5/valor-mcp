@@ -1,0 +1,16 @@
+{
+  "name": "valor-ai",
+  "displayName": "Valor AI",
+  "version": "1.0.0",
+  "description": "Valor AI for VA disability benefits. Free, read-only, and no sign-in: VA claims Q&A with official VA.gov sources, a BDD prep checklist, and combined rating math with the bilateral factor.",
+  "author": {
+    "name": "Valor AI LLC",
+    "url": "https://www.tryvalor.ai"
+  },
+  "homepage": "https://www.tryvalor.ai",
+  "repository": "https://github.com/jchacker5/valor-mcp",
+  "license": "UNLICENSED",
+  "keywords": ["veterans", "va-benefits", "va-disability", "bdd", "mcp"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
