@@ -1,4 +1,4 @@
-# Valor AI MCP connector
+# ValorAI MCP
 
 Valor AI for VA disability benefits. Ask general questions about VA claims and get answers from Valor's reviewed knowledge base with official VA.gov sources. Getting out soon? Get a Benefits Delivery at Discharge (BDD) prep checklist and see where you are in the 180 to 90 day window. Have ratings already? Combine them with the official VA math, bilateral factor included, step by step. Free, read-only, and no sign-in. It never asks for or stores personal or medical records. General education only, not legal advice or a VA decision.
 
