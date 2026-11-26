@@ -1,0 +1,12 @@
+{
+  "name": "valor-mcp-verification",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "check": "node scripts/check-manifests.mjs",
+    "test": "node --test",
+    "smoke": "node scripts/smoke.mjs --live"
+  }
+}
